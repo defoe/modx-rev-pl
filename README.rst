@@ -26,12 +26,17 @@ Jak napisał fixedmachine na forum:
     **Przykładowo:**
     - "chunk" a nie "wlepka", "link" a nie "odsyłacz" ale w przypadku tłumaczenia:
     - "The following Placeholders are replaced by the Content Manager when the message is sent:"
-      nie tak jak to jest w obecnym tłumaczeniu:
+    nie tak jak to jest w obecnym tłumaczeniu:
     - "Następujące zmienne są zamieniane przez Panel Administracyjny kiedy wiadomość jest wysyłana:"
-       a dajmy na to: "Podczas wysyłania wiadomości, następujące placeholdery zostaną wypełnione odpowiednimi danymi:"
+    a dajmy na to: "Podczas wysyłania wiadomości, następujące placeholdery zostaną wypełnione odpowiednimi danymi:"
 
 Uwagi końcowe
 =============
 
 Zasady nie są wyryte w marmurze - w razie uwag lub pomysłów śmiało piszcie lub zgłaszajcie Issue :)
+
+Obecny podział zadań
+====================
+
+Tutaj dopisujemy co kto robi, albo na co się deklaruje - najlepiej pełna ścieżka do tłumaczone obecnie pliku.
 
