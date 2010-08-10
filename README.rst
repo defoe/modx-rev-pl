@@ -46,3 +46,4 @@ Tutaj dopisujemy co kto robi, albo na co się deklaruje - najlepiej pełna ście
 
 * qcol: pl-core od litery S do końca.
 * bx2: pl-setup, całość (na ten moment mogę mieć problemy czasowe stąd mniejszy zakres rezerwuje)
+* fixedmachine: pl-core od litery A do E.
