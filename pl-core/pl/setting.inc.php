@@ -6,28 +6,28 @@
  * @package modx
  * @subpackage lexicon
  */
-$_lang['area'] = 'Area';
+$_lang['area'] = 'Sekcja'; //Area
 $_lang['area_authentication'] = 'Authentication and Security';
 $_lang['area_caching'] = 'Caching';
-$_lang['area_editor'] = 'Rich-Text Editor';
-$_lang['area_file'] = 'File System';
-$_lang['area_filter'] = 'Filter by area...';
-$_lang['area_furls'] = 'Friendly URL';
+$_lang['area_editor'] = 'Edytor WYSIWYG'; //Rich-Text Editor
+$_lang['area_file'] = 'System plików'; //File System
+$_lang['area_filter'] = 'Filtruj wg sekcji...'; //Filter by area
+$_lang['area_furls'] = 'Przyjazny URL'; //Friendly URL
 $_lang['area_gateway'] = 'Gateway';
 $_lang['area_language'] = 'Lexicon and Language';
 $_lang['area_mail'] = 'Mail';
 $_lang['area_manager'] = 'Back-end Manager';
 $_lang['area_proxy'] = 'Proxy';
-$_lang['area_session'] = 'Session and Cookie';
+$_lang['area_session'] = 'Sesje i Cookie'; //Session and Cookie
 $_lang['area_lexicon_string'] = 'Area Lexicon Entry';
 $_lang['area_lexicon_string_msg'] = 'Enter the key of the lexicon entry for the area here. If there is no lexicon entry, it will just display the area key.<br />Core Areas:<ul><li>authentication</li><li>caching</li><li>file</li><li>furls</li><li>gateway</li><li>language</li><li>manager</li><li>session</li><li>site</li><li>system</li></ul>';
-$_lang['area_site'] = 'Site';
-$_lang['area_system'] = 'System and Server';
-$_lang['areas'] = 'Areas';
-$_lang['namespace'] = 'Namespace';
-$_lang['namespace_filter'] = 'Filter by namespace...';
-$_lang['search_by_key'] = 'Search by key...';
-$_lang['setting_create'] = 'Create New Setting';
+$_lang['area_site'] = 'Strona'; //Site
+$_lang['area_system'] = 'System i Serwer'; //System and Server
+$_lang['areas'] = 'Sekcje'; //Areas
+$_lang['namespace'] = 'Przestrzeń nazw'; //Namespace
+$_lang['namespace_filter'] = 'Filtrowanie po przestrzeni nazw...'; //Filter by namespace
+$_lang['search_by_key'] = 'Szukaj wg klucza...'; //Search by key
+$_lang['setting_create'] = 'Nowe ustawienie'; //Create New Setting
 $_lang['setting_err'] = 'Please check your data for the following fields: ';
 $_lang['setting_err_ae'] = 'Setting with that key already exists. Please specify another key name.';
 $_lang['setting_err_nf'] = 'Setting not found.';
@@ -41,12 +41,12 @@ $_lang['setting_remove_confirm'] = 'Are you sure you want to remove this setting
 $_lang['setting_update'] = 'Update Setting';
 $_lang['settings_after_install'] = 'As this is a new install, you are required to control these settings, and change any that you may wish to. After you\'ve controlled the settings, press \'Save\' to update the settings database.<br /><br />';
 $_lang['settings_desc'] = 'Here you can set general preferences and configuration settings for the MODx manager interface, as well as how your MODx site runs. Double-click on the value column for the setting you\'d like to edit to dynamically edit via the grid, or right-click on a setting for more options. You can also click the "+" sign for a description of the setting.';
-$_lang['settings_furls'] = 'Friendly URLs';
+$_lang['settings_furls'] = 'Przyjazne URL'e'; //Friendly URLs
 $_lang['settings_misc'] = 'Miscellaneous';
-$_lang['settings_site'] = 'Site';
+$_lang['settings_site'] = 'Strona'; //Site
 $_lang['settings_ui'] = 'Interface &amp; Features';
-$_lang['settings_users'] = 'User';
-$_lang['system_settings'] = 'System Settings';
+$_lang['settings_users'] = 'Użytkownik'; //User
+$_lang['system_settings'] = 'Ustawienia systemowe'; //System Settings
 
 // user settings
 $_lang['setting_allow_mgr_access'] = 'Manager Interface Access';
