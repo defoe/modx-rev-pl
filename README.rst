@@ -14,6 +14,8 @@ kolektywnie co z fantem zrobić.
 
 **OGROMNA PRŚBA** - proszę uzupełniać pole COMMIT MESSAGE, jeśli edytujecie coś via WWW. W tym polu wrzucamy ogólny opis/podsumowanie zmian, więc jego uzupełnienie pomoże się nam później zorientować co zostało zmienione.
 
+Uważam też, że najwygodniej sklonować sobie repo z tłumaczeniem za pomocą GIT, następnie pracować lokalnie (u siebie na komputerze), zapisywać do woli, po czym wysłać zmiany na githuba. Jeśli ktoś będzie miał problemy z obsługą git-a proszę o kontakt - bx2.
+
 Wierność tłumaczenia
 ====================
 
