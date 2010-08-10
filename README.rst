@@ -12,6 +12,8 @@ kolektywnie co z fantem zrobić.
 
 **Wszelkie informacje o commitach wpisujemy w języku polskim - z przyzwyczajenia 'initial import' dałem po angielsku :P**
 
+**OGROMNA PRŚBA** - proszę uzupełniać pole COMMIT MESSAGE, jeśli edytujecie coś via WWW. W tym polu wrzucamy ogólny opis/podsumowanie zmian, więc jego uzupełnienie pomoże się nam później zorientować co zostało zmienione.
+
 Wierność tłumaczenia
 ====================
 
