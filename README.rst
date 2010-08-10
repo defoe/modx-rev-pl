@@ -42,5 +42,5 @@ Obecny podział zadań
 
 Tutaj dopisujemy co kto robi, albo na co się deklaruje - najlepiej pełna ścieżka do tłumaczone obecnie pliku.
 
-Więc skoro już zacząłem od końca testowo niech będzie na początek: 
-qcol: pl-core od litery S do końca.
+* qcol: pl-core od litery S do końca.
+* bx2: pl-setup, całość (na ten moment mogę mieć problemy czasowe stąd mniejszy zakres rezerwuje)
